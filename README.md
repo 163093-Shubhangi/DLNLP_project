@@ -1,2 +1,2 @@
-# DLNLP_project
-credit_card and stock market data project
+# Credit_card_DLNLP_project
+credit_card  project
